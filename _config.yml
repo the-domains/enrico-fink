@@ -1,7 +1,7 @@
 name: Enrico Fink
 favicon: null
-layout_spectrum: 0.36634161369875073
-typography_spectrum: 0.18766550836153328
+layout_spectrum: 1
+typography_spectrum: 0.465
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.4769445804413408
   lightness: 0.3513964486774057
   saturation: 0.7768221197184175
-  rhythmicContrast: 0.9754183935001493
+  rhythmicContrast: 1
 purpose: []
