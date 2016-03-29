@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - disneymusicvevo
@@ -61,13 +61,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=q2XcoW0u2u4&feature=youtu.be'
 title: 'Enrico Fink: Hatzel Project - El Nora Alila'
-datePublished: '2016-03-29T16:16:42.089Z'
-dateModified: '2016-03-29T16:15:46.289Z'
+datePublished: '2016-03-29T16:20:22.961Z'
+dateModified: '2016-03-29T16:20:12.766Z'
 sourcePath: _posts/2016-03-29-enrico-fink-hatzel-project-el-nora-alila.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
