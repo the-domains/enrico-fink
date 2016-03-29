@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - meno
   - illumino
@@ -61,13 +61,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=1suQwV5YevI'
 title: "M'illumino di meno 2012 - Enrico Fink. Arlo Bigazzi & Cantierranti : Vedo chiaro limpido vero."
-datePublished: '2016-03-29T16:09:49.838Z'
-dateModified: '2016-03-29T16:09:16.262Z'
+datePublished: '2016-03-29T17:24:58.567Z'
+dateModified: '2016-03-29T17:22:27.634Z'
 sourcePath: _posts/2016-03-29-millumino-di-meno-2012-enrico-fink-arlo-bigazzi-and-cantie.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
