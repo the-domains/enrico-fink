@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=1suQwV5YevI'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - meno
   - illumino
@@ -17,8 +17,8 @@ keywords:
   - fink
   - cantierranti
 description: "l'album \"Fuori dal Pozzo\" è disponibile qui ► http://www.materialisonori.com/ ► iTunes: https://itunes.apple.com/us/album/fuori-dal-pozzo/id835585059 https://www.facebook.com/materialisonoriconcerti http://www.matson.it/artists.php?id=19 altri album di Enrico: ► http://www.materialisonori.com/advanced_search_result.php?keywords=enrico+fink&x=4&y=4 altri album di Arlo: ► http://www.materialisonori.com/advanced_search_result.php?keywords=arlo+bigazzi&x=0&y=0 È vero m'illumino di meno e lo so, lo so, lo so lo so che sembra strano strano ma vedo più lontano vedo chiaro, limpido, vero se m'illumino di meno Cerca di coprire le finestre con le tende scopri di vedere ancora più lontano per mano portami con te, portami con te ma solo sul divano."
-datePublished: '2016-03-29T21:23:16.203Z'
-dateModified: '2016-03-29T21:18:22.007Z'
+datePublished: '2016-03-29T21:25:33.187Z'
+dateModified: '2016-03-29T21:25:32.686Z'
 author:
   - name: MaterialiSonori
     url: 'https://www.youtube.com/user/MaterialiSonori'
