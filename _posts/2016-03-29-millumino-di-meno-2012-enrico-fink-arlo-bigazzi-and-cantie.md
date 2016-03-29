@@ -1,14 +1,10 @@
 ---
-author:
-  - name: MaterialiSonori
-    url: 'https://www.youtube.com/user/MaterialiSonori'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=1suQwV5YevI'
+inLanguage: en
+starred: true
 keywords:
   - meno
   - illumino
@@ -21,7 +17,13 @@ keywords:
   - fink
   - cantierranti
 description: "l'album \"Fuori dal Pozzo\" è disponibile qui ► http://www.materialisonori.com/ ► iTunes: https://itunes.apple.com/us/album/fuori-dal-pozzo/id835585059 https://www.facebook.com/materialisonoriconcerti http://www.matson.it/artists.php?id=19 altri album di Enrico: ► http://www.materialisonori.com/advanced_search_result.php?keywords=enrico+fink&x=4&y=4 altri album di Arlo: ► http://www.materialisonori.com/advanced_search_result.php?keywords=arlo+bigazzi&x=0&y=0 È vero m'illumino di meno e lo so, lo so, lo so lo so che sembra strano strano ma vedo più lontano vedo chiaro, limpido, vero se m'illumino di meno Cerca di coprire le finestre con le tende scopri di vedere ancora più lontano per mano portami con te, portami con te ma solo sul divano."
-inLanguage: en
+datePublished: '2016-03-29T21:23:16.203Z'
+dateModified: '2016-03-29T21:18:22.007Z'
+author:
+  - name: MaterialiSonori
+    url: 'https://www.youtube.com/user/MaterialiSonori'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=1suQwV5YevI&feature=applinks'
     type: ios
@@ -59,17 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=1suQwV5YevI'
 title: "M'illumino di meno 2012 - Enrico Fink. Arlo Bigazzi & Cantierranti : Vedo chiaro limpido vero."
-datePublished: '2016-03-29T17:24:58.567Z'
-dateModified: '2016-03-29T17:22:27.634Z'
 sourcePath: _posts/2016-03-29-millumino-di-meno-2012-enrico-fink-arlo-bigazzi-and-cantie.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
