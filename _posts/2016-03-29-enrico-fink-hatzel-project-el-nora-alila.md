@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Enrico Fink
-    url: 'https://www.youtube.com/channel/UCYgvLC6kfmw_DQNR1sLAGfg'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=q2XcoW0u2u4&feature=youtu.be'
+inLanguage: en
+starred: true
 keywords:
   - duration
   - disneymusicvevo
@@ -21,7 +17,13 @@ keywords:
   - hatzel
   - arianagrandevevo
 description: 'A very free version of the piyut used in Sephardic and Italian tradition to introduce the final part of the Yom Kippur service, Neilah. Live and unedited; summer 2015, Bologna, Jewish Museum. The Hatzel Project: Enrico Fink; Zeno De Rossi; Gabriele Coen; Alfonso Santimone; Francesco Bigoni. x'
-inLanguage: en
+datePublished: '2016-03-29T21:25:54.057Z'
+dateModified: '2016-03-29T21:25:53.383Z'
+author:
+  - name: Enrico Fink
+    url: 'https://www.youtube.com/channel/UCYgvLC6kfmw_DQNR1sLAGfg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=q2XcoW0u2u4&feature=applinks'
     type: ios
@@ -59,17 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=q2XcoW0u2u4&feature=youtu.be'
 title: 'Enrico Fink: Hatzel Project - El Nora Alila'
-datePublished: '2016-03-29T16:20:22.961Z'
-dateModified: '2016-03-29T16:20:12.766Z'
 sourcePath: _posts/2016-03-29-enrico-fink-hatzel-project-el-nora-alila.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
